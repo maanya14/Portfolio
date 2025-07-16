@@ -200,7 +200,7 @@ const Portfolio = () => {
                     Problem Solver
                   </span>
                   <span className="px-3 py-1 bg-pink-500/20 text-pink-300 rounded-full text-sm">Creative Thinker</span>
-                  <span className="px-3 py-1 bg-blue-500/20 text-blue-300 rounded-full text-sm">Team Player</span>
+                  <span className="px-3 py-1 bg-blue-500/20 text-blue-300 rounded-full text-sm">Collaborative</span>
                 </div>
               </div>
 
