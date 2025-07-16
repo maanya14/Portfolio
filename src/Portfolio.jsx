@@ -403,14 +403,14 @@ const Portfolio = () => {
                     <h4 className="text-lg sm:text-xl font-semibold text-white mb-2">Police DAV Public School</h4>
                     <p className="text-pink-300 mb-2 text-sm sm:text-base"> class: XII(CBSE)</p>
                     <p className="text-gray-300 text-sm sm:text-base">
-                      Percentage: 94.2%
+                      2023
                     </p>
                   </div>
                   <div className="bg-slate-800/30 p-4 sm:p-6 rounded-xl border border-slate-700 hover:border-pink-500/30 transition-all duration-300">
                     <h4 className="text-lg sm:text-xl font-semibold text-white mb-2">St.Joseph School</h4>
                     <p className="text-pink-300 mb-2 text-sm sm:text-base">class: X (CBSE)</p>
                     <p className="text-gray-300 text-sm sm:text-base">
-                      Percentage: 97.6%
+                      2021
                     </p>
                   </div>
                 </div>
