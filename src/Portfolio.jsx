@@ -472,7 +472,7 @@ const Portfolio = () => {
                   <span className="ml-2">Get In Touch</span>
                 </a>
                 <a
-                  href="/Resume - Maanya Gupta.pdf"
+                  href="/Resume final.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="border-2 border-purple-400 text-purple-400 hover:bg-purple-400 hover:text-white bg-transparent transform hover:scale-105 transition-all duration-200 px-6 sm:px-8 py-3 sm:py-4 text-base sm:text-lg rounded-lg flex items-center w-full sm:w-auto justify-center"
