@@ -472,7 +472,7 @@ const Portfolio = () => {
                   <span className="ml-2">Get In Touch</span>
                 </a>
                 <a
-                  href="/Resume final.pdf"
+                  href="/Maanya resume.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="border-2 border-purple-400 text-purple-400 hover:bg-purple-400 hover:text-white bg-transparent transform hover:scale-105 transition-all duration-200 px-6 sm:px-8 py-3 sm:py-4 text-base sm:text-lg rounded-lg flex items-center w-full sm:w-auto justify-center"
@@ -508,7 +508,7 @@ const Portfolio = () => {
       <footer className="py-6 sm:py-8 px-4 sm:px-6 lg:px-8 border-t border-slate-800 bg-slate-900/50">
         <div className="max-w-6xl mx-auto text-center text-gray-400">
           <p className="mb-2 text-sm sm:text-base">
-            &copy; Maanya Gupta. Built with React, Framer Motion, and Tailwind CSS.
+            &copy; Maanya Gupta. Built with React and Tailwind CSS.
           </p>
           <p className="text-xs sm:text-sm">Designed and developed with ❤️</p>
         </div>
